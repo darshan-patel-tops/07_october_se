@@ -10,14 +10,14 @@ Passcode: tops
 
 
 
-Daily 07:00-08:00 AM
+Daily 07:30-08:30 AM
 
 
 Drive Link:
-https://drive.google.com/drive/folders/19hOi2VmCkSUYJbifAlwM1v562gZd8_0g?usp=sharing
+https://drive.google.com/drive/folders/1HrT4ytZ4Slidhl3nQRNnEgkz8Y1HytMk?usp=drive_link
 
 GitHub Link:
-https://github.com/darshan-patel-tops/25_September_SE
+https://github.com/darshan-patel-tops/07_october_se
 
 Dev c++
 https://sourceforge.net/projects/embarcadero-devcpp/
